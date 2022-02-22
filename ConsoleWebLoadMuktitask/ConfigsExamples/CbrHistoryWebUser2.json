@@ -1,0 +1,11 @@
+{
+
+        "MaxThreads": 100,
+        "TotalRequests": 80000, 
+        "Url": "https://srv-2022/load/UspSelectCBRhistory",
+        "UserName": "webUser2",
+        "Password": "12345678Qw",
+        "IgnoreCertificateValidation": "True",
+        "DisplayRecordsInMultiplesOf": 1000
+ 
+}
