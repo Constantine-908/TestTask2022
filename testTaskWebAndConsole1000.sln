@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleWebLoadMuktitask", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiWebLoad", "WebApiWebLoad\WebApiWebLoad.csproj", "{C03F4DA5-EB46-418F-899F-A11D052D5068}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database_testDB", "Database_testDB\Database_testDB.sqlproj", "{451A7F7C-F183-4136-BBF3-F4B362082B96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{C03F4DA5-EB46-418F-899F-A11D052D5068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C03F4DA5-EB46-418F-899F-A11D052D5068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C03F4DA5-EB46-418F-899F-A11D052D5068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451A7F7C-F183-4136-BBF3-F4B362082B96}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

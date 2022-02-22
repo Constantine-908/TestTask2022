@@ -1,0 +1,2 @@
+﻿CREATE USER [SRV-2022\webUser2] FOR LOGIN [SRV-2022\webUser2];
+

@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [SRV-2022\webUser1]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+
